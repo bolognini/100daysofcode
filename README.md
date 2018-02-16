@@ -1,2 +1,2 @@
 # zurukuro.github.io
-zurukuro.github.io
+Hi! I'm Matheus Bolognini. I have a journalism degree, but now I'm studying programming on my second college. This is my personal daily journal of studies for the [#100DaysOfCode challenge](http://www.100daysofcode.com/). I try to study everyday at least 1 hour and then I tweet what I learned or what I'm working on, so to make things more organized I'll post here the same tweets. Mostly of them are front-end stuff.
