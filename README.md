@@ -1,2 +1,3 @@
-# bolognini.github.io
-Hi! I'm Matheus Bolognini. I have a journalism degree, but now I'm studying programming on my second college. This is my personal daily journal of studies for the [#100DaysOfCode challenge](http://www.100daysofcode.com/). I try to study everyday at least 1 hour and then I tweet what I learned or what I'm working on, so to make things more organized I'll post here the same tweets. Mostly of them are front-end stuff.
+# 100DaysOfCode
+
+Hi! I'm Matheus Bolognini. This was my [personal Frontend daily studies journal](bolognini.github.io/100daysofcode) for the [#100DaysOfCode challenge](http://www.100daysofcode.com/). At the time I tried to study at least 1 hour everyday and then tweet what I learned or what I was working on, to make things more organized. The same tweets were posted on this project as well. When I started these studies I just had a Journalism Degree and was beggining my second college, Technologist in System Analysis. Fortunately everything gone fine and now I'm working as a Frontend Developer! This project is just an archive of my very first studies. 😄
